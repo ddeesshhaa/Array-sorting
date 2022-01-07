@@ -23,14 +23,14 @@
 >For large values of N, the comparison times will dominate, so we would have to say that the selection sort runs in O(N^(2)) time
 
 
-#Quick sort
+# Quick sort
 > Basically, the quicksort algorithm operates by partitioning an array into two subarrays and then calling itself recursively to quicksort each of these subarrays.
 > In most situations, it’s the fastest, operating in O(N*log N) time.
 > You can pick a data item to be the pivot at random.
 > After the partition, if the pivot is inserted at the boundary between the left and right subarrays, it will be in its final sorted position.
 
 
-#Comparing between the three algorithms
+# Comparing between the three algorithms
 > Bubble and selection sorts are easy to implement 
 > Bubble and selection sorts Time complexity is N^(2) which is a long time
 > Swapping in selection sort is faster than swapping in bubble sort 
