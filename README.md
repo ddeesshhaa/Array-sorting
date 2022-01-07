@@ -23,6 +23,7 @@
 >The selection sort improves on the bubble sort by reducing the number of swaps necessary from O(N^(2)) to O(N).
 >the number of comparisons remains O(N^(2)).
 >For large values of N, the comparison times will dominate, so we would have to say that the selection sort runs in O(N^(2)) time
+
 ![image](https://user-images.githubusercontent.com/66144435/148587721-45a19a75-6df4-4598-930b-38a53b918b6e.png)
 ![image](https://user-images.githubusercontent.com/66144435/148587739-8503d392-c7f8-4411-a4a7-81e686751b19.png)
 
