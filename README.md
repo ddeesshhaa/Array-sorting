@@ -15,6 +15,7 @@
 > If the data is random, a swap is necessary about half the time, so there will be about N^(2)⁄4 swaps.
 > Both swaps and comparisons are proportional to N^(2)
 
+![image](https://user-images.githubusercontent.com/66144435/148587653-194b127a-e346-47c1-bcc9-529745e79e61.png)
 
 # Selection sort
 >sorts an array by repeatedly finding the maximum element (considering ascending order) from unsorted part and putting it at the ending.
