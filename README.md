@@ -44,3 +44,5 @@
 > Quick sort time complexity is Nlog(N) Which is better zoom mobile and selection sort
 > Quick Sort takes less time than selection and bubble sort
 > Bubble sort and selection sort are more stable than quick sort 
+
+![image](https://user-images.githubusercontent.com/66144435/148587897-5c983014-196d-42eb-88e4-e0fdaf6a1a58.png)
